@@ -1,0 +1,6 @@
+{
+  "name": "ARKA — Deep-Tech Space & Geospatial Systems",
+  "description": "Computational systems for understanding, modelling and operating complex physical environments — from Earth observation and geospatial intelligence to digital infrastructure and autonomous systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
